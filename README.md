@@ -8,6 +8,6 @@ Imagine is a very loved bubble tea place at Royal Holloway, located at the basem
 
 At Imagine, there is a lot of choice for what to buy, which is why this website exists! You can filter what drinks you don't like, and it will randomly choose between different drinks to save yourself the trouble of waiting several minutes to decide!
 
-## Why does it ask for cookies?
+## How ~~does~~ will it work?
 
-It will make use of cookies to store your preferred drinks, and in the future may even include the option to save 5 favourite drinks that have a higher chance of getting picked!
+Using the [WebStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API), it will store your drink preferences on your device! This means that no account or cookie usage is required!
