@@ -1,30 +1,13 @@
-# React + TypeScript + Vite
+# Random Bubble Tea Picker, for Imagine at Royal Holloway
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## What is Imagine?
 
-Currently, two official plugins are available:
+Imagine is a very loved bubble tea place at Royal Holloway, located at the basement of the Hub, and is a joint venture between Costa Coffee and Pearls, but it is mostly loved for the bubble tea.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Why use the Random Bubble Tea picker?
 
-## Expanding the ESLint configuration
+At Imagine, there is a lot of choice for what to buy, which is why this website exists! You can filter what drinks you don't like, and it will randomly choose between different drinks to save yourself the trouble of waiting several minutes to decide!
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Why does it ask for cookies?
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+It will make use of cookies to store your preferred drinks, and in the future may even include the option to save 5 favourite drinks that have a higher chance of getting picked!
