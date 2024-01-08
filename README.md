@@ -11,3 +11,5 @@ At Imagine, there is a lot of choice for what to buy, which is why this website 
 ## How ~~does~~ will it work?
 
 Using the [WebStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API), it will store your drink preferences on your device! This means that no account or cookie usage is required!
+
+This app ~~is~~ will be built using Vite, React.js and TypeScript!
