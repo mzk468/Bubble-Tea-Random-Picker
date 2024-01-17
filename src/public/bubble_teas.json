@@ -1,0 +1,183 @@
+[
+  { "name": "Original Pearl Milk", "type": ["MILK"], "canBeWarm": true },
+  { "name": "Jasmine Milk Tea", "type": ["MILK"], "canBeWarm": true },
+  { "name": "Oolong Milk Tea", "type": ["MILK"], "canBeWarm": true },
+  {
+    "name": "Vegan Milk Tea (+45p)",
+    "type": ["VEGAN", "MILK"],
+    "canBeWarm": true
+  },
+  { "name": "Vanilla Milk", "type": ["MILK"], "canBeWarm": true },
+  { "name": "Banana Milk", "type": ["MILK"], "canBeWarm": true },
+  { "name": "Taro Milk", "type": ["MILK"], "canBeWarm": true },
+  { "name": "Japanese Matcha Milk", "type": ["MILK"], "canBeWarm": true },
+  { "name": "Strawberry Milk", "type": ["MILK"], "canBeWarm": true },
+  { "name": "Honey Milk Tea", "type": ["MILK"], "canBeWarm": true },
+  { "name": "Mango Milk", "type": ["MILK"], "canBeWarm": true },
+  {
+    "name": "Coffee Milk",
+    "type": ["BUBBLE_COFFEE", "MILK"],
+    "canBeWarm": true
+  },
+  { "name": "Caramel Milk", "type": ["MILK"], "canBeWarm": true },
+  { "name": "Honeydew Melon Milk", "type": ["MILK"], "canBeWarm": true },
+  { "name": "Coconut Milk (non-vegan)", "type": ["MILK"], "canBeWarm": true },
+  { "name": "Rose Milk", "type": ["MILK"], "canBeWarm": true },
+  { "name": "Almond Milk", "type": ["MILK"], "canBeWarm": true },
+  {
+    "name": "Original Ice Tea",
+    "type": ["VEGAN", "ORIGINAL"],
+    "canBeWarm": false
+  },
+  {
+    "name": "Ice Tea w/ Honey",
+    "type": ["VEGAN", "ORIGINAL"],
+    "canBeWarm": false
+  },
+  {
+    "name": "Lemon Black Tea",
+    "type": ["VEGAN", "ORIGINAL"],
+    "canBeWarm": false
+  },
+  {
+    "name": "Oolong Black Tea",
+    "type": ["VEGAN", "ORIGINAL"],
+    "canBeWarm": false
+  },
+  {
+    "name": "Hawaiian Ice Tea",
+    "type": ["VEGAN", "FRUIT"],
+    "canBeWarm": false
+  },
+  { "name": "Tahiti Ice Tea", "type": ["VEGAN", "FRUIT"], "canBeWarm": false },
+  { "name": "Pacific Ice Tea", "type": ["VEGAN", "FRUIT"], "canBeWarm": false },
+  {
+    "name": "BoraBora Ice Tea",
+    "type": ["VEGAN", "FRUIT"],
+    "canBeWarm": false
+  },
+  {
+    "name": "Passion Fruit Tea",
+    "type": ["VEGAN", "FRUIT"],
+    "canBeWarm": false
+  },
+  { "name": "Apple Tea", "type": ["VEGAN", "FRUIT"], "canBeWarm": false },
+  { "name": "Mango Tea", "type": ["VEGAN", "FRUIT"], "canBeWarm": false },
+  { "name": "Pineapple Tea", "type": ["VEGAN", "FRUIT"], "canBeWarm": false },
+  { "name": "Strawberry Tea", "type": ["VEGAN", "FRUIT"], "canBeWarm": false },
+  { "name": "Lychee Tea", "type": ["VEGAN", "FRUIT"], "canBeWarm": false },
+  { "name": "Peach Tea", "type": ["VEGAN", "FRUIT"], "canBeWarm": false },
+  { "name": "Blueberry Tea", "type": ["VEGAN", "FRUIT"], "canBeWarm": false },
+  { "name": "Watermelon Tea", "type": ["VEGAN", "FRUIT"], "canBeWarm": false },
+  {
+    "name": "Vanilla Bubble Coffee",
+    "type": ["BUBBLE_COFFEE"],
+    "canBeWarm": true
+  },
+  {
+    "name": "Chocolate Bubble Coffee",
+    "type": ["BUBBLE_COFFEE"],
+    "canBeWarm": true
+  },
+  {
+    "name": "Almond Bubble Coffee",
+    "type": ["BUBBLE_COFFEE"],
+    "canBeWarm": true
+  },
+  {
+    "name": "Banana Bubble Coffee",
+    "type": ["BUBBLE_COFFEE"],
+    "canBeWarm": true
+  },
+  {
+    "name": "Coconut Bubble Coffee",
+    "type": ["BUBBLE_COFFEE"],
+    "canBeWarm": true
+  },
+  {
+    "name": "Original Coconut Water",
+    "type": ["VEGAN", "COCONUT_WATER"],
+    "canBeWarm": false
+  },
+  {
+    "name": "Pineapple Coconut Water",
+    "type": ["VEGAN", "COCONUT_WATER"],
+    "canBeWarm": false
+  },
+  {
+    "name": "Strawberry Coconut Water",
+    "type": ["VEGAN", "COCONUT_WATER"],
+    "canBeWarm": false
+  },
+  {
+    "name": "Lychee Coconut Water",
+    "type": ["VEGAN", "COCONUT_WATER"],
+    "canBeWarm": false
+  },
+  {
+    "name": "Peach and Mango Coconut Water",
+    "type": ["VEGAN", "COCONUT_WATER"],
+    "canBeWarm": false
+  },
+  {
+    "name": "Oreo Milk Tea (+45p)",
+    "type": ["MILK", "SPECIAL"],
+    "canBeWarm": true
+  },
+  {
+    "name": "Bourboun Biscuit Milk Tea",
+    "type": ["MILK", "SPECIAL"],
+    "canBeWarm": true
+  },
+  {
+    "name": "Crème Brûlée (+45p) Milk",
+    "type": ["MILK", "SPECIAL"],
+    "canBeWarm": true
+  },
+  {
+    "name": "Pina Colada Tea",
+    "type": ["VEGAN", "SPECIAL", "FRUIT"],
+    "canBeWarm": false
+  },
+  {
+    "name": "Cheese Cake (+45p) Milk",
+    "type": ["SPECIAL", "MILK"],
+    "canBeWarm": true
+  },
+  {
+    "name": "Choc Fudge Brownie Milk",
+    "type": ["SPECIAL", "MILK"],
+    "canBeWarm": true
+  },
+  {
+    "name": "Cookies & Cream Milk",
+    "type": ["SPECIAL", "MILK"],
+    "canBeWarm": true
+  },
+  {
+    "name": "Banoffee Pie Milk",
+    "type": ["SPECIAL", "MILK"],
+    "canBeWarm": true
+  },
+  {
+    "name": "Neapolitan Ice Cream",
+    "type": ["SPECIAL", "MILK"],
+    "canBeWarm": true
+  },
+  {
+    "name": "Banana Split Milk",
+    "type": ["SPECIAL", "MILK"],
+    "canBeWarm": true
+  },
+  {
+    "name": "Pink Wafer Milk",
+    "type": ["SPECIAL", "MILK"],
+    "canBeWarm": true
+  },
+  { "name": "Melon Medley", "type": ["SPECIAL"], "canBeWarm": false },
+  {
+    "name": "Blueberry Muffin Milk",
+    "type": ["SPECIAL", "MILK"],
+    "canBeWarm": true
+  }
+]
