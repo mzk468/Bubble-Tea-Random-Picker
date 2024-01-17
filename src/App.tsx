@@ -1,13 +1,13 @@
 import "./App.css";
 import { Button } from "./components/Button";
-import { CheckBox } from "./components/CheckBox";
+//import { CheckBox } from "./components/CheckBox";
 import allTeas from "./public/bubble_teas.json";
 import { TeaTypes } from "./utils/TeaTypes.ts";
 import { pickATea } from "./utils/Picker.ts";
 
 // Construct tea lists
-const veganTeas = allTeas.filter((tea) => tea.type.includes(TeaTypes.VEGAN));
-const warmTeas = allTeas.filter((tea) => (tea.canBeWarm = true));
+//const veganTeas = allTeas.filter((tea) => tea.type.includes(TeaTypes.VEGAN));
+//const warmTeas = allTeas.filter((tea) => (tea.canBeWarm = true));
 const originalTeas = allTeas.filter((tea) =>
   tea.type.includes(TeaTypes.ORIGINAL)
 );
